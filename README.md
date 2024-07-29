@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lixianyu0912
+- 👋 Hi, I’m Xianyu Li
 - 👀 I’m interested in self-learning
 - 🌱 I’m currently learning Business English at XISU
 - 💞️ I’m looking to collaborate on AI
